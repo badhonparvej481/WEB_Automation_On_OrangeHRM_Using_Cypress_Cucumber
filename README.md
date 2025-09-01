@@ -5,17 +5,6 @@ I am a **Software QA Engineer (SDET)** with experience in **test automation, Dev
 
 ---
 
-## 🔹 Table of Contents
-1. [About Me](#about-me)  
-2. [Skills & Tools](#skills--tools)  
-3. [Project Reports](#project-reports)  
-4. [Automation Frameworks](#automation-frameworks)  
-5. [Allure & Cucumber Reports](#allure--cucumber-reports)  
-6. [How to Run Tests & Generate Reports](#how-to-run-tests--generate-reports)  
-7. [Contact](#contact)  
-
----
-
 ## 🔹 About Me
 I specialize in **Software QA Engineering, Test Automation, DevOps Integration, and Security Testing**.  
 My work focuses on ensuring high-quality software with robust automation pipelines and CI/CD practices.
